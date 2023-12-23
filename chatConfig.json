@@ -1,0 +1,7 @@
+{
+    "apiKey": "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",
+    "apiEndpoint": "https://api.openai.com/v1/engines/davinci/completions",
+    "greeting": "Hello! How can I assist you today?",
+    "exitMessage": "Goodbye! Have a great day."
+  }
+  
